@@ -1,0 +1,21 @@
+<div><strong>Exercice 10 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche son pgcd avec 10.</div>
+
+<div><strong>Exercice 11 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche son ppcm avec 10.</div>
+
+<div><strong>Exercice 12 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir deux nombres et qui affiche le plus grand commun diviseur de ces deux nombres.</div>
+
+<div><strong>Exercice 13 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir deux nombres et qui affiche le plus petit commun multiple de ces deux nombres.</div>
+    
+<div><strong>Exercice 14 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche sa suite de Fibonacci jusqu'à ce nombre.</div>
+
+<div><strong>Exercice 15 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche sa suite de Syracuse jusqu'à ce nombre.</div>
+
+<div><strong>Exercice 16 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche sa suite de Collatz jusqu'à ce nombre.</div>
+
+<div><strong>Exercice 17 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche sa suite de Lucas jusqu'à ce nombre.</div>
+   
+<div><strong>Exercice 18 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche sa suite de Pell jusqu'à ce nombre.</div>
+
+<div><strong>Exercice 19 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche sa suite de Fibonacci généralisée jusqu'à ce nombre.</div>
+
+<div><strong>Exercice 20 : </strong>Écrire un algorithme qui demande à l'utilisateur de saisir un nombre et qui affiche sa suite de Lucas généralisée jusqu'à ce nombre.</div>

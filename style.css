@@ -1,8 +1,25 @@
 h1 {
     text-align: center;
+    font-size: 60px;
+    text-decoration: underline;
 }
 
 div { 
     text-decoration: underline;
-    font-size: 25px;
+    font-size: 30px;
+}
+
+label {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+body {
+    background: url(./alphabet-5555610_1280.jpg) no-repeat center fixed;
+    background-size: 100%;
+    color: green;
+    font-weight: bold;
 }

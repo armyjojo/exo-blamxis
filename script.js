@@ -87,3 +87,20 @@ function premiers() {
     }  
 
     /* EXERCICE 8 => nbr32 */
+
+    function PGCD1nbr(){
+        var nbr33=Number(document.getElementById("nbr32").value);
+        var nbr32 = 1;
+        var nbr34 = nbr33 / nbr32;
+        return document.getElementById("nbr35").value+=nbr34;
+    }
+
+    /* EXERCICE 9 */
+
+    function ppd1nbr(){
+        var nbr36=Number(document.getElementById("nbr37").value);
+        var nbr39=nbr36/nbr36;
+        return document.getElementById("nbr38").value+=nbr39;
+    }
+
+    /* EXERCICE 9 => nbr40*/
