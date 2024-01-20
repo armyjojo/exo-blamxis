@@ -2,4 +2,7 @@ h1 {
     text-align: center;
 }
 
-div { font-size: 25px;}
+div { 
+    text-decoration: underline;
+    font-size: 25px;
+}
