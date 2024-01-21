@@ -9,11 +9,7 @@ div {
     font-size: 30px;
 }
 
-label {
-    font-size: 20px;
-}
-
-p {
+label, p {
     font-size: 20px;
 }
 
@@ -22,4 +18,25 @@ body {
     background-size: 100%;
     color: green;
     font-weight: bold;
+}
+
+@media screen and (max-width: 1000px) {
+    body {
+        background-size: cover;
+    }
+}
+@media screen and (max-width: 800px) {
+
+    h1 {
+        font-size: 30px;
+    }
+    
+    div { 
+        font-size: 15px;
+    }
+    
+    label, p {
+        font-size: 10px;
+    }
+
 }
