@@ -22,9 +22,14 @@ body {
 
 @media screen and (max-width: 1000px) {
     body {
-        background-size: cover;
+        background-size: 100%;
+        font-size: 100%;
+    }
+    textarea {
+        max-width: 200px;
     }
 }
+
 @media screen and (max-width: 800px) {
 
     h1 {
