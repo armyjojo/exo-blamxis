@@ -69,10 +69,10 @@ function premiers() {
         {
         var nbr22=Number(document.getElementById("nbr23").value);
         var nbr24, nbr22, nbr25 = 1;
-        for(nbr24 = 1; nbr24 <= nbr22; nbr24++)  
+        for(nbr24 = 1; nbr24 <= nbr22; nbr24++)
         {
             nbr25 = nbr25 * nbr24;
-        }  
+        }
         return document.getElementById("nbr26").value+= "Pour le nombre " + nbr22 + " la factorielle est " + nbr25 + ". ";
         }
 
@@ -84,7 +84,7 @@ function premiers() {
         var nbr29 = 1;
         var nbr30 = nbr29 / nbr27;
     return document.getElementById("nbr31").value+= "Pour le nombre " + nbr27 + " son inverse est " + nbr30 + " . ";
-    }  
+    }
 
     /* EXERCICE 8 => nbr32 */
 
